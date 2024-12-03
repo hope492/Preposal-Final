@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Hope Elias
 
 #### Your section leader's name
 
-TODO
+Hope
 
 #### Project title
 
-TODO
+BreakBall Wall
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+So far I have figured out a code for my BreakBall Wall code with Pygame 
 
 #### What have you not done for your project yet?
 
-TODO
+I haven't implemented my Mario code yet
 
 #### What problems, if any, have you encountered?
 
-TODO
+Right now I'm trying to figure out if I can use my Mario code with a four-loop but there's always a bug whenever I put my Mario code in.
